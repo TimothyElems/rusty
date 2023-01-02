@@ -1,0 +1,8 @@
+commands:
+  - rustc - compile a rust program
+    - `rustc --version`
+  - cargo - 'django-admin', analogue
+    - `cargo --version`
+    - `rustc init` - creates a new project within the pwd. For new directory `cargo init <name>`
+    - `cargo run` - obvi
+  - crates.io - 'pypi.com', analogue
